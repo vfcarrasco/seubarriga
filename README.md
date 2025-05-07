@@ -32,9 +32,7 @@ Testa se o sistema impede o cadastro de um email já existente.
 
 - Node.js version: 22.14.0
 
-- mpm version: 9.5.1
-
-- Cypress package version: 13.16.0
+- mpn version: 10.9.2
 
 - Cypress binary version: 13.16.0
 
@@ -106,7 +104,6 @@ Para evitar dependências de dados fixos, foi utilizado o pacote faker para gera
 
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias no projeto.
 
-
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
@@ -114,5 +111,3 @@ Este projeto está licenciado sob a MIT License.
 ## Autores
 
 - [Vitor Felipe Carrasco ](https://github.com/vfcarrasco/seubarriga)
-
-
