@@ -30,7 +30,7 @@ Testa se o sistema impede o cadastro de um email já existente.
 
 ## Pré-requisitos
 
-- Node.js version: 18.16.0
+- Node.js version: 22.14.0
 
 - mpm version: 9.5.1
 
