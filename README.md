@@ -110,4 +110,4 @@ Este projeto está licenciado sob a MIT License.
 
 ## Autores
 
-- [Vitor Felipe Carrasco ](vitorcarrasco@gmail.com)
+- [Vitor Felipe Carrasco ](https://github.com/vfcarrasco/seubarriga)
